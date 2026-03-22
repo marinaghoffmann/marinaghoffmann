@@ -1,5 +1,4 @@
 ## Hi there, i'm Marina 👋
-[![Instagram Badge](https://img.shields.io/badge/-@marinaghoffmann-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marinaghoffmann)
 [![Linkedin Badge](https://img.shields.io/badge/-Marina%20Hoffmann-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinahoffmanng/)
 
 ## 💻Tech Stack
